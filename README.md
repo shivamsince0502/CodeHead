@@ -1,4 +1,4 @@
-WebApp description: This a real time code editor which a room is created which can be joined by many other clients using the room id and username, and all can make changes simultaneously to the editor which will be displayed in real time.
+WebApp description: This a real-time code editor in which a room is created which can be joined by many other clients using the room id and username, and all can make changes simultaneously to the editor which will be displayed in real-time.
 
 If deployed link doesn't work please have a look at the video or screenshot given below.
 
