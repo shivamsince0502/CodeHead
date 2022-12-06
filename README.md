@@ -7,4 +7,4 @@ Here are video link to show the working of this project: https://drive.google.co
 Screenshots of its working deployement: https://drive.google.com/file/d/1JDRHZ13up0mfrnwu-NliaQtZjXDZAFWa/view?usp=share_link
 
 
-live link : https://magical-douhua-89a87b.netlify.app
+live link : https://code-head-shivamsince0502.vercel.app/
